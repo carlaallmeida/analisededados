@@ -34,11 +34,11 @@ Você pode importar a biblioteca através do código:
 
 ---
 
-<h4> Entendo a biblioteca csv</h4><br>
+<h4> Entendo a biblioteca csv</h4>
 
-<p>Essa é uma biblioteca do python usada par importar tabelas em formato de csv. Você pode importar a biblioteca através do código: </p>
+<p> É uma biblioteca do python usada para subir tabelas em formato de csv. Você pode importar a biblioteca através do código: </p>
 
-- import <strong>csv</strong>
+- import csv
 
 
 
