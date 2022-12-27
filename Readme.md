@@ -19,14 +19,13 @@ Você pode importar a biblioteca através do código:
 
 ---
 
-<h3> Entendendo a biblioteca Requests</h3>
-
+<h4> Entendendo a biblioteca Requests</h4>
 
 <p> É uma biblioteca em HTTP do python com o objetivo de deixar as solicitações  dentro de uma base de dados mais simples de usar. Você pode importar a biblioteca através do código: 
 
 - import <strong> requests</strong></p>
 ---
-<h3> Entendendo a biblioteca matplotlib</h3>
+<h4> Entendendo a biblioteca matplotlib</h4>
 
 <p> É uma biblioteca do python usada para criação de gŕaficos e visualização de dados. Você pode importar a biblioteca através do código:
 
@@ -36,9 +35,7 @@ Você pode importar a biblioteca através do código:
 
 <h4> Entendo a biblioteca csv</h4>
 
-<p> É uma biblioteca do python usada para subir tabelas em formato de csv. Você pode importar a biblioteca através do código: </p>
+<p> É uma biblioteca do python usada para subir tabelas em formato de csv. Você pode importar a biblioteca através do código:
 
 - import csv
-
-
-
+---
