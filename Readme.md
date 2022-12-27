@@ -37,5 +37,5 @@ Você pode importar a biblioteca através do código:</p>
 
 <p> É uma biblioteca do python usada para subir tabelas em formato de csv. Você pode importar a biblioteca através do código:
 
-  - import<strong>csv</strong></p>
+  - import <strong>csv</strong></p>
 
