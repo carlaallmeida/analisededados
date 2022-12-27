@@ -19,14 +19,14 @@ Você pode importar a biblioteca através do código:
 
 ---
 
-<h4> Entendendo a biblioteca Requests</h4>
+<h3> Entendendo a biblioteca Requests</h3>
 
 
 <p> É uma biblioteca em HTTP do python com o objetivo de deixar as solicitações  dentro de uma base de dados mais simples de usar. Você pode importar a biblioteca através do código: 
 
 - import <strong> requests</strong></p>
 ---
-<h4> Entendendo a biblioteca matplotlib</h4>
+<h3> Entendendo a biblioteca matplotlib</h3>
 
 <p> É uma biblioteca do python usada para criação de gŕaficos e visualização de dados. Você pode importar a biblioteca através do código:
 
