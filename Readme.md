@@ -11,7 +11,7 @@
 <p> O seguinte código foi projetado usando a base de dados  da  sindec ( que é o Sistema Nacional de Informações de Defesa do Consumidor, que integra processos e procedimentos, relativos ao atendimento aos consumidores nos Procons) referente ao ano de 2016. Seu objetivo é estudar as bibliotecas Pandas, Requests, CSV e Matplotlib para gerar dados estatísticos.
 </p><br>
 
-<h1 align="center">Importação das biblitecas</h1>
+<h1 align="center">Importação das Bibliotecas</h1>
 
 - import pandas as pd <br>
 - import requests <br>
@@ -29,14 +29,14 @@ Você pode importar a biblioteca através do código:</p>
 
 <br>
 
-<h1 align="center">Entendendo a biblioteca Requests</h1>
+<h1 align="center">Entendendo a Biblioteca Requests</h1>
 
 <p> É uma biblioteca em HTTP do python com o objetivo de deixar as solicitações  dentro de uma base de dados mais simples de usar. Você pode importar a biblioteca através do código: </p>
 
 - import <strong> requests</strong></p>
 <br>
 
-<h1 align="center">Entendendo a biblioteca Matplotlib</h1>
+<h1 align="center">Entendendo a Biblioteca Matplotlib</h1>
 
 <p> É uma biblioteca do python usada para criação de gŕaficos e visualização de dados. Você pode importar a biblioteca através do código:</p>
 
@@ -44,7 +44,7 @@ Você pode importar a biblioteca através do código:</p>
 
 <br>
 
-<h1 align="center">Entendo a biblioteca CSV</h1>
+<h1 align="center">Entendo a Biblioteca CSV</h1>
 
 <p> É uma biblioteca do python usada para subir tabelas em formato de csv. Você pode importar a biblioteca através do código:
 
