@@ -54,7 +54,7 @@ Você pode importar a biblioteca através do código:</p>
 
 <h1 align="center">Editor Usado</h1>
 
-- Todo o código foi desenvolvido no Visual Studio Code, mas você pode desenvolver o código usando o editor Google Colab se desejar.
+- Todo o código foi desenvolvido no Visual Studio Code, mas você pode desenvolver o código usando o Google Colab.
 
 
 <h1 align="center">Licença</h1>
