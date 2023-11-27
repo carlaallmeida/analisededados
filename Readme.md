@@ -24,7 +24,7 @@
 <p> Essa é uma biblioteca do python que é usada para manipulação de dados. Com ela podemos realizar diversas operações para manipular dados por meio de Tabelas.
 Você pode importar a biblioteca através do código:</p>
 
-- import <strong>pandas</strong> as <strong>pd</strong><p>
+<code>import <strong>pandas</strong> as <strong>pd</strong></code><p>
 
 <br>
 
@@ -32,14 +32,14 @@ Você pode importar a biblioteca através do código:</p>
 
 <p> É uma biblioteca em HTTP do python com o objetivo de deixar as solicitações  dentro de uma base de dados mais simples de usar. Você pode importar a biblioteca através do código: </p>
 
-- import <strong> requests</strong></p>
+<code>import <strong> requests</strong></code></p>
 <br>
 
 <h1 align="left">Biblioteca Matplotlib</h1>
 
 <p> É uma biblioteca do python usada para criação de gŕaficos e visualização de dados. Você pode importar a biblioteca através do código:</p>
 
-- import<strong> matplotlib.pyplot as plt</strong>
+<code>import<strong> matplotlib.pyplot as plt</strong></code>
 
 <br>
 
@@ -47,7 +47,7 @@ Você pode importar a biblioteca através do código:</p>
 
 <p> É uma biblioteca do python usada para subir tabelas em formato de csv. Você pode importar a biblioteca através do código:
 
-  - import <strong>csv</strong></p>
+<code>import <strong>csv</strong></code></p>
 
 <br>
 
