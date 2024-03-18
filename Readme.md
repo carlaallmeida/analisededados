@@ -1,5 +1,5 @@
 
-<h1 align="left">Análise de Dados</h1>
+<h3 align="left">Análise de Dados</h3>
 
 <p align="left" display="inline-block">
 
@@ -10,7 +10,7 @@
 <p> O seguinte código foi projetado usando a base de dados  da  sindec ( que é o Sistema Nacional de Informações de Defesa do Consumidor, que integra processos e procedimentos, relativos ao atendimento aos consumidores nos Procons) referente ao ano de 2016. Seu objetivo é estudar as bibliotecas Pandas, Requests, CSV e Matplotlib para gerar dados estatísticos.
 </p><br>
 
-<h1 align="left">Importação das Bibliotecas</h1>
+<h3 align="left">Importação das Bibliotecas</h3>
 
 - import pandas as pd <br>
 - import requests <br>
@@ -19,7 +19,7 @@
 
 <br>
 
-<h1 align="left">Biblioteca Pandas</h1>
+<h3 align="left">Biblioteca Pandas</h3>
 
 <p> Essa é uma biblioteca do python que é usada para manipulação de dados. Com ela podemos realizar diversas operações para manipular dados por meio de Tabelas.
 Você pode importar a biblioteca através do código:</p>
@@ -28,14 +28,14 @@ Você pode importar a biblioteca através do código:</p>
 
 <br>
 
-<h1 align="left">Biblioteca Requests</h1>
+<h3 align="left">Biblioteca Requests</h3>
 
 <p> É uma biblioteca em HTTP do python com o objetivo de deixar as solicitações  dentro de uma base de dados mais simples de usar. Você pode importar a biblioteca através do código: </p>
 
 <code>import <strong> requests</strong></code></p>
 <br>
 
-<h1 align="left">Biblioteca Matplotlib</h1>
+<h3 align="left">Biblioteca Matplotlib</h3>
 
 <p> É uma biblioteca do python usada para criação de gŕaficos e visualização de dados. Você pode importar a biblioteca através do código:</p>
 
@@ -43,7 +43,7 @@ Você pode importar a biblioteca através do código:</p>
 
 <br>
 
-<h1 align="left">Biblioteca CSV</h1>
+<h3 align="left">Biblioteca CSV</h3>
 
 <p> É uma biblioteca do python usada para subir tabelas em formato de csv. Você pode importar a biblioteca através do código:
 
@@ -51,7 +51,7 @@ Você pode importar a biblioteca através do código:</p>
 
 <br>
 
-<h1 align="left">Ferramenta de Edição</h1>
+<h3 align="left">Ferramenta de Edição</h3>
 
 - Todo o código foi desenvolvido no Visual Studio Code, mas você pode desenvolver o código usando o Google Colab.
 
